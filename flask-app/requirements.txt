@@ -1,0 +1,6 @@
+flask
+requests
+jsonify
+flask_sqlalchemy
+flask_marshmallow
+marshmallow-sqlalchemy
